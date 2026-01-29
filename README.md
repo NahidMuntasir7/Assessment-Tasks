@@ -25,7 +25,7 @@ The Drive folder is organized as follows:
   Contains the generated synthetic dataset with images and json annotations.
 
 - **Task 2 (Test Inputs and Outputs)**  
-  Contains test images and corresponding model predictions/output files.
+  Contains test images, jsons and corresponding model predictions/output json files.
 
 - **Report.pdf**  
   The technical report (also included in this GitHub repository).
