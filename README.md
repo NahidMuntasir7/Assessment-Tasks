@@ -18,3 +18,14 @@ This repository contains all deliverables for the submission, including syntheti
 The generated dataset is publicly available on Google Drive:
 
 https://drive.google.com/drive/folders/17drn2tYgBCq782rKLNvMldtUEm_bu2me
+
+The Drive folder is organized as follows:
+
+- **/Task 1 (Synthetic Dataset)**  
+  Contains the generated synthetic dataset with images and annotations.
+
+- **/Task 2 (Test Inputs and Outputs)**  
+  Contains test images and corresponding model predictions/output files.
+
+- **/Report.pdf**  
+  The technical report (also included in this GitHub repository).
