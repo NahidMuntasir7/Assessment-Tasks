@@ -2,12 +2,12 @@
 
 This repository contains all deliverables for the submission, including synthetic dataset generation, training, and inference code.
 
-## 📁 Repository Contents
+## Repository Contents
 
-- **Synthetic Dataset Preparation Code**  
+- **Synthetic Dataset Preparation Code (task_1)**  
   Code to generate synthetic scientific plots and annotations.
 
-- **Training and Inference Code**  
+- **Training and Inference Code (task_2)**  
   Scripts to train the model and run inference.
 
 - **Technical Report (Report.pdf)**  
