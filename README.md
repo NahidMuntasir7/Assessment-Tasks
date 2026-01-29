@@ -17,7 +17,7 @@ This repository contains all deliverables for the submission, including syntheti
 
 The generated dataset is publicly available on Google Drive. For convenience, compressed ZIP archives of the uploaded folders is also provided in the Google Drive.
 
-https://drive.google.com/drive/folders/17drn2tYgBCq782rKLNvMldtUEm_bu2me
+Google Drive Link: https://drive.google.com/drive/folders/17drn2tYgBCq782rKLNvMldtUEm_bu2me
 
 The Drive folder is organized as follows:
 
