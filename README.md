@@ -15,7 +15,7 @@ This repository contains all deliverables for the submission, including syntheti
 
 ## Generated Dataset
 
-The generated dataset is publicly available on Google Drive:
+The generated dataset is publicly available on Google Drive. For convenience, compressed ZIP archives of the uploaded folders is also provided in the Google Drive.
 
 https://drive.google.com/drive/folders/17drn2tYgBCq782rKLNvMldtUEm_bu2me
 
