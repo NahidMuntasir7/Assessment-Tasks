@@ -4,16 +4,16 @@ This repository contains all deliverables for the submission, including syntheti
 
 ## Repository Contents
 
-- **Synthetic Dataset Preparation Code (task_1)**  
+- **Synthetic Dataset Preparation Code (task_1.ipynb)**  
   Code to generate synthetic scientific plots and annotations.
 
-- **Training and Inference Code (task_2)**  
+- **Training and Inference Code (task_2.ipynb)**  
   Scripts to train the model and run inference.
 
 - **Technical Report (Report.pdf)**  
   The technical report is available both in this GitHub repository and  Google Drive folder (link given below)
 
-## 📊 Generated Dataset
+## Generated Dataset
 
 The generated dataset is publicly available on Google Drive:
 
