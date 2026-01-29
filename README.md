@@ -1,4 +1,4 @@
-# Synthetic Dataset and Error Bar Detection Project
+# Synthetic Dataset Generation and Error Bar Detection Project
 
 This repository contains all deliverables for the submission, including synthetic dataset generation, training, and inference code.
 
